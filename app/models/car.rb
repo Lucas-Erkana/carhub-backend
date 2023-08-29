@@ -7,4 +7,6 @@ class Car < ApplicationRecord
   validates :color, presence: true
   validates :plate_no, presence: true
   validates :price, presence: true
+  validates :photo, presence: true
+  
 end

@@ -45,5 +45,6 @@ Car.create(
   color: "Silver",
   plate_no: "ABC123",
   price: 25000,
+  photo: "https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/3-series/gl/2023/navigation.png/jcr:content/renditions/cq5dam.resized.img.585.low.time1673330685738.png",
   user_id:1
 )
