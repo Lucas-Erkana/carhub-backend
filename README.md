@@ -59,7 +59,7 @@ This app is built with Ruby on Rails and Postgresql.
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://carhub-lr.vercel.app/"></a>
+<a href="https://carhub-luri.vercel.app/"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ In order to run this project you need:
 
 ### App Screenshot
 
-![carhub](https://github.com/Rishi-Mishra0704/carhub-backend/assets/41428579/c1b7dd86-f14e-492b-ab10-655a3c2ec1b1)
+
 
 
 ### Front-end Repository
