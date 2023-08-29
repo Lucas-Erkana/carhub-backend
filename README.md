@@ -90,12 +90,14 @@ In order to run this project you need:
 - Here is the link to the [Front-End](https://github.com/Lucas-Erkana/carhub-frontend)
 
 ### Initial State of Kanban Board
+![carhubKanban](https://github.com/Rishi-Mishra0704/carhub-frontend/assets/41428579/0a5ac260-393d-41a3-952c-813cea6b91f4)
 
-![KanBan](https://github.com/users/Lucas-Erkana/projects/6/views/1?layout=board)
 
 - We started as a team of 2 team members.
   - [Rishi Mishra](https://github.com/Rishi-Mishra0704)
   - [Lucas Erkana](https://github.com/Lucas-Erkana)
+ 
+[Final Kanban Board](https://github.com/users/Rishi-Mishra0704/projects/2/views/1)
  
 
 ### Setup
