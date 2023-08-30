@@ -40,7 +40,7 @@ User.create(
 )
 
 Car.create(
-  name: "Toyota Camry",
+  name: "BMW",
   year: 2023,
   color: "Silver",
   plate_no: "ABC123",
